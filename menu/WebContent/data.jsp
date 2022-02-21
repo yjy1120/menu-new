@@ -15,7 +15,7 @@
  String home = request.getParameter("home");
  String price = request.getParameter("price");
  String loc = request.getParameter("loc");
- String star = request.getParameter("star");
+ String star = request.getParameter("star");sss
  String tel = request.getParameter("tel");
  String time = request.getParameter("time");
  
